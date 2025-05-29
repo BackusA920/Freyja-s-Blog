@@ -3,7 +3,7 @@
 
 <p>Created as a personal and creative project, this site combines beginner-friendly HTML structure with semantic tags, accessibility-friendly elements, and a fun, pun-filled personality. It's a celebration of love between a dog and her human, built with code and heart. 🐶💻</p>
 
-<a href="https://backusa920.github.io/Freyja-s-Blog/">
+<a href="https://backusa920.github.io/Freyja-s-Blog/"></a>
 
   <img src="./assets/Screen.png" width="500" >
   <br>
@@ -15,7 +15,7 @@
   <br>
   <p>This update demonstrates how well my blog page aligns with accessibility standards. It is a goal to not only make visually appealing webpages but to have them meet all compliance and performance goals as well.</p>
   <>
-</a>
+
 <br><br>
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
   <img src="https://dabuttonfactory.com/button.png?t=View+Project&f=Calibri-Bold&ts=18&tc=fff&hp=45&vp=20&w=134&h=38&c=11&bgt=unicolored&bgc=245c68&be=1">
