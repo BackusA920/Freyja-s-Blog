@@ -5,7 +5,11 @@
 
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
 
-  <img src="./assets/Screen.png" width="500">
+  <img src="./assets/Screen.png" height=auto; max-width=500px; alt="Screenshot">
+  <br>
+  <img src="./assets/UpdatedScreen.png" height=auto; max-width=500px; alt="screenshot">
+  <br>
+  <img src="./assets/updated screen2.png" height=auto; max-width=500px; alt="screenshot">
 </a>
 <br><br>
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
