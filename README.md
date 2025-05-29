@@ -7,9 +7,14 @@
 
   <img src="./assets/Screen.png" width="500" >
   <br>
+  <p>This is the foundational HTML layout structure for my blog page, created prior to applying my css styling.</p>
   <img src="./assets/UpdatedScreen.png" width="500"  >
   <br>
+  <p>This is my updated screenshot after CSS styling has been added and updated.</p>
   <img src="./assets/updatedscreen2.png" width="500" >
+  <br>
+  <p>This update demonstrates how well my blog page aligns with accessibility standards. It is a goal to not only make visually appealing webpages but to have them meet all compliance and performance goals as well.</p>
+  <>
 </a>
 <br><br>
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
