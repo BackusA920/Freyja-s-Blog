@@ -5,11 +5,11 @@
 
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
 
-  <img src="./assets/Screen.png" height=auto; max-width=500px; alt="Screenshot">
+  <img src="./assets/Screen.png" width="500" >
   <br>
-  <img src="./assets/UpdatedScreen.png" height=auto; max-width=500px; alt="screenshot">
+  <img src="./assets/UpdatedScreen.png" width="500"  >
   <br>
-  <img src="./assets/updated screen2.png" height=auto; max-width=500px; alt="screenshot">
+  <img src="./assets/updatedscreen2.png" width="500" >
 </a>
 <br><br>
 <a href="https://backusa920.github.io/Freyja-s-Blog/">
