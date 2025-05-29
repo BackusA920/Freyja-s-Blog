@@ -9,7 +9,7 @@
   <p>This is the foundational HTML layout structure for my blog page, created prior to applying my css styling.</p>
   <img src="./assets/UpdatedScreen.png" width="500"  >
   <p>This is my updated screenshot after CSS styling has been added and updated.</p>
-  <img src="./assets/updatedscreen2.png" width="500" >
+  <img src="./assets/Screen2.png" width="500" >
   <p>This update demonstrates how well my blog page aligns with accessibility standards. It is a goal to not only make visually appealing webpages but to have them meet all compliance and performance goals as well.</p>
   
 
