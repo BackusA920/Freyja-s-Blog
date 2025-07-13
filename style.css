@@ -117,12 +117,13 @@ section {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   padding: 0.5rem;
   text-align: center;
+  overflow:hidden
 }
 
 .photo-card img {
-  height: auto;
-  width: 100%;
-  height: auto;
+  height: 300px;
+  width: auto;
+  object-fit: cover;
   border-radius: 10px;
 }
 
